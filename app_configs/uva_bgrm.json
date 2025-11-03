@@ -1,0 +1,9 @@
+{
+  "appTitle": "UVA BGRM",
+  "shortTitle": "uva_bgrm",
+  "initialLayerIds": [
+    "administrative_boundary_soi",
+    "high_resolution_imagery_bhuvan"
+  ],
+  "initialExtent": [82.82, 23.79, 88.79, 28.02]
+}
