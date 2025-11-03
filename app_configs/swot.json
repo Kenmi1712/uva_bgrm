@@ -1,8 +1,0 @@
-{
-    "appTitle": "SWOT Surface Water Elevation",
-    "shortTitle":"SWOT",
-    "initialLayerIds": [
-    "swot_surface_water_elevation",
-      "administrative_boundary_soi"
-    ]
- }

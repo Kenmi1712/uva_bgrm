@@ -1,8 +1,0 @@
-{
-  "appTitle": "Satellite Data Visualization (NRT)",
-  "shortTitle":"NRT",
-  "initialLayerIds": [
-    "administrative_boundary_soi",
-    "awifs_fcc_ridam"
-  ]
-}

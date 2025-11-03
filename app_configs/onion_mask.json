@@ -1,9 +1,0 @@
-{
-    "appTitle": "VEDAS UVA ",
-    "shortTitle":"UVA",
-    "initialLayerIds": ["ndvi_5d",
-    "onion_mask",
-      "administrative_boundary_soi"
-    ],
-    "initialExtent":[74.325, 20.40,74.435,20.50]
-}
