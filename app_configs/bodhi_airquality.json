@@ -1,0 +1,54 @@
+<<<<<<< HEAD
+{
+  "appTitle": "Satellite Data Visualization - UVA",
+  "shortTitle":"BODHI-UVA",
+  "hideBanner": true,
+  "hideFooter": true,
+  "clippingBoundary":"https://vedas.sac.gov.in/vapps/bodhi/assets/feature/bihar_boundary.geojson",
+  "initialLayerIds": [
+    
+    "administrative_boundary_soi",
+    "Tropospheric_NO2"
+    
+  ],
+  "catalogueLayerIds": [
+    "AOD_OCM",
+    "Tropospheric_SO2",
+    "Tropospheric_HCHO",
+    "Tropospheric_O3",
+    "Tropospheric_NO2",
+    "Tropospheric_CO",
+    "Aerosol_Index",
+    "fire_tehsil_level",
+    "fire_district_level",
+    "fire_state_level"
+  ],
+  "initialExtent":[83.3, 24.2,88.3,27.6]
+
+}
+=======
+{
+  "appTitle": "Satellite Data Visualization - UVA",
+  "shortTitle":"BODHI-UVA",
+  "hideBanner": true,
+  "hideFooter": true,
+  "clippingBoundary":"https://vedas.sac.gov.in/vapps/bodhi/assets/feature/bihar_boundary.geojson",
+  "initialLayerIds": [
+    
+    "administrative_boundary_soi",
+    "AOD_OCM"    
+    
+  ],
+  "catalogueLayerIds": [
+    "AOD_OCM",
+    "Tropospheric_SO2",
+    "Tropospheric_HCHO",
+    "Tropospheric_O3",
+    "Tropospheric_NO2",
+    "Tropospheric_CO",
+    "Aerosol_Index"
+  ],
+  "initialExtent":[83.3, 24.2,88.3,27.6]
+
+}
+>>>>>>> 1428280 (Initial Commit)

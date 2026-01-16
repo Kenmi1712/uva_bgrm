@@ -1,0 +1,102 @@
+:root {
+    --grey-color: #777
+}
+
+.story-modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 50%;
+    /* height: 5%; */
+    /* height: auto; */
+    border-radius: 15px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+
+    transform: translate(-50%, -50%);
+}
+
+.story-modal {
+    position: fixed;
+    z-index: 1;
+    padding-top: 25%;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgb(0, 0, 0);
+    background-color: rgba(0, 0, 0, 0.4);
+}
+
+textarea {
+    margin-top: 10px;
+    width: 85%;
+    height: auto;
+    border-radius: 10px;
+    padding: 5px 10px;
+    border: none;
+}
+
+.story-text {
+    display: flex;
+    font-size: 20px;
+    color: var(--grey-color);
+}
+
+.story-close {
+    color: var(--primary-background);
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.story-close:hover {
+    background-color: #eee;
+    padding: 0px 5px;
+    border-radius: 3px;
+
+}
+
+.story-link {
+    width: 90%;
+    padding: 5px 10px;
+    font-size: 16px;
+    border-radius: 10px;
+    color: var(--grey-color);
+    border-color: #ddd;
+}
+
+.story-copy {
+    color: var(--grey-color);
+    flex: 0
+}
+
+.story-copy:hover {
+    cursor: pointer;
+    /* padding: 5px; */
+    background-color: #ccc;
+}
+
+
+@media(max-width:570px) {
+    textarea {
+        margin-top: 10px;
+        width: 80%;
+        height: auto;
+        border-radius: 10px;
+
+    }
+
+    .story-modal-content {
+        background-color: #fefefe;
+        margin: auto;
+
+        width: 90%;
+
+
+
+    }
+}

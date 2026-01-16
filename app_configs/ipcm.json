@@ -1,0 +1,13 @@
+{
+  "appTitle": "Indian Potato Crop Monitor (IPCM)",
+  "shortTitle":"IPCM",
+  "initialLayerIds": ["ndvi_5d",
+  "Potato_mask",
+   "cold_storage",
+    "administrative_boundary_soi"
+    
+   
+    
+   
+  ]
+}

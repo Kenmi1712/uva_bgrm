@@ -1,0 +1,10 @@
+{
+    "extent": [69.4,19.1,73.7,24.7],
+    "appTitle": "Gujarat Monitoring",
+    "shortTitle":"UVA",
+    "initialLayerIds": [
+      "administrative_boundary_soi",
+      "awifs_ncc"
+    ]
+  }
+ 

@@ -1,0 +1,8 @@
+{
+  "appTitle": "Unified Visualization and Analysis",
+  "shortTitle":"UVA",
+  "initialLayerIds": [
+    "administrative_boundary_soi",
+    "awifs_fcc_ridam"
+  ]
+}

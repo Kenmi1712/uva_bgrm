@@ -1,0 +1,24 @@
+{
+  "appTitle": "Agriculture",
+  "shortTitle":"Agriculture",
+  "hideBanner": true,
+  "hideFooter": true,
+  "clippingBoundary":"https://vedas.sac.gov.in/vapps/lama/assets/feature/ladakh_boundary.geojson",
+  "initialLayerIds": [   
+    "administrative_boundary_soi",
+    "ndvi_5d"
+    
+  ],
+  "catalogueLayerIds": ["ndvi_5d",
+    "ndmi_cmask",    
+    "pet_insat_normal",
+    "pet_insat",    
+    "MODIS_NDVI",    
+    "sentinel2_ndvi_rgb",
+    "sentinel2_ndvi_difference"
+    
+  ],
+  "initialExtent":[71.5, 31.7,81.10,37.65]
+
+}
+

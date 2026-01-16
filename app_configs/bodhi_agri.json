@@ -1,0 +1,29 @@
+{
+  "appTitle": "Satellite Data Visualization - UVA",
+  "shortTitle":"BODHI-UVA",
+  "hideBanner": true,
+  "hideFooter": true,
+  "clippingBoundary":"https://vedas.sac.gov.in/vapps/bodhi/assets/feature/bihar_boundary.geojson",
+  "initialLayerIds": [
+    
+    "administrative_boundary_soi",
+    "ndvi_5d"
+    
+  ],
+  "catalogueLayerIds": ["ndvi_5d",
+    "ndmi_cmask",
+    "modis_tcc_250m",
+    "sentinel2_ndvi_season_composite" ,
+    "awifs_fcc_ridam",
+    "insat_visible_1km",
+    "insat_thermal_4km",
+    "MODIS_NDVI",
+    "sentinel_2_fcc_ridam",
+    "sentinel_1_10m",
+    "sentinel2_ndvi_rgb",
+    "sentinel2_ndvi_difference",
+    "sentinel2_ndvi_season_composite_difference"
+  ],
+  "initialExtent":[83.3, 24.2,88.3,27.6]
+
+}

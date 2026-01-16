@@ -1,0 +1,25 @@
+{
+  "appTitle": "Air Quality",
+  "shortTitle":"Air Quality",
+  "hideBanner": true,
+  "hideFooter": true,
+  "clippingBoundary":"https://vedas.sac.gov.in/vapps/lama/assets/feature/ladakh_boundary.geojson",
+    "initialLayerIds": [
+      
+      "administrative_boundary_soi",
+      "AOD_OCM"    
+      
+    ],
+    "catalogueLayerIds": [
+      "AOD_OCM",
+      "Tropospheric_SO2",
+      "Tropospheric_HCHO",
+      "Tropospheric_O3",
+      "Tropospheric_NO2",
+      "Tropospheric_CO",
+      "Aerosol_Index"
+    ],
+    "initialExtent":[71.5, 31.7,81.10,37.65]
+  
+  }
+  
